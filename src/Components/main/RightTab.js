@@ -1,5 +1,5 @@
 import React from 'react';
-import Styles from '../../src/css/main.css';
+import Styles from '../../css/main.css';
 
 const RightTab = () => {
   const img = ['https://img.alicdn.com/tfs/TB1Z7JvoxGYBuNjy0FnXXX5lpXa-358-136.png', 'https://img.alicdn.com/tfs/TB18tFCCH2pK1RjSZFsXXaNlXXa-240-34.svg'],

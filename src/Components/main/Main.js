@@ -1,5 +1,5 @@
 import React from 'react';
-import Styles from '../../src/css/main.css';
+import Styles from '../../css/main.css';
 import Search from './Search';
 import NewPosition from './NewPosition';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Styles from '../../src/css/main.css';
+import Styles from '../../css/main.css';
 import Li from './Li';
 
 class PositionList extends React.Component {

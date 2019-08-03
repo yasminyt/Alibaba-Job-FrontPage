@@ -1,5 +1,5 @@
 import React from 'react';
-import Styles from '../../src/css/main.css';
+import Styles from '../../css/main.css';
 import PositionList from './PositionList';
 
 class NewPositionList extends React.Component {

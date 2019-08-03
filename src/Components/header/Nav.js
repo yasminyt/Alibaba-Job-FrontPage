@@ -1,5 +1,5 @@
 import React, { Components } from 'react';
-import styles from '../../src/css/header.css';
+import styles from '../../css/header.css';
 
 class Nav extends React.Component {
   constructor(props) {
